@@ -5,8 +5,6 @@
  * @package SimpleMag
  * @since 	SimpleMag 1.0
 **/
-
-
 /* Install plugins for theme use */
 include_once ( 'admin/tgm/tgm-init.php' );
 
