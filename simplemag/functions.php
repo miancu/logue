@@ -8,7 +8,6 @@
 /* Install plugins for theme use */
 include_once ( 'admin/tgm/tgm-init.php' );
 
-
 /* Content Width */
 if ( ! isset( $content_width ) ) 
 	$content_width = 1050; /* pixels */
